@@ -2,6 +2,7 @@
 
 [README.md in English](https://github.com/railgun19982/HOI4_mod_CCTA/blob/main/README_en.md)
 
+[README.md in Russian](https://github.com/railgun19982/HOI4_mod_CCTA/blob/main/README_ru.md)
 # HOI4_mod_CCTA
 China Communism Transitional Alliance
 
