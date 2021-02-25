@@ -1,3 +1,5 @@
+开的一个大坑，高考前我铁定是码不了代码了，所以就尽量填充一下比如超事件或者剧情这一类的文本材料。 设定在readme.md 志同道合者可加我QQ：212790560
+
 # HOI4_mod_CCTA
 China Communism Transitional Alliance
 
